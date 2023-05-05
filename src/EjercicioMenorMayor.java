@@ -36,7 +36,7 @@ public class EjercicioMenorMayor {
         int numeroMenor = numero1;
 
         if (numero2 < numeroMenor){
-            numeroMayor = numero2;
+            numeroMenor = numero2;
         }
         if (numero3 < numeroMenor){
             numeroMenor = numero3;
